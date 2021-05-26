@@ -79,7 +79,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathUtilTest.mdcAParP1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MathUtilTest.mdcGeralIndivisiveis" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="introducao-junit5" />
       <extension name="coverage">
         <pattern>
@@ -89,13 +89,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="tdd" />
       <option name="MAIN_CLASS_NAME" value="tdd.MathUtilTest" />
-      <option name="METHOD_NAME" value="mdcAParP1" />
+      <option name="METHOD_NAME" value="mdcGeralIndivisiveis" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathUtilTest.mdcP5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MathUtilTest.mdcMultiplosValores" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="introducao-junit5" />
       <extension name="coverage">
         <pattern>
@@ -105,13 +105,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="tdd" />
       <option name="MAIN_CLASS_NAME" value="tdd.MathUtilTest" />
-      <option name="METHOD_NAME" value="mdcP5" />
+      <option name="METHOD_NAME" value="mdcMultiplosValores" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathUtilTest.mdcP5Resultado1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MathUtilTest.mdcNenhumParametro" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="introducao-junit5" />
       <extension name="coverage">
         <pattern>
@@ -121,13 +121,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="tdd" />
       <option name="MAIN_CLASS_NAME" value="tdd.MathUtilTest" />
-      <option name="METHOD_NAME" value="mdcP5Resultado1" />
+      <option name="METHOD_NAME" value="mdcNenhumParametro" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathUtilTest.mdcP6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MathUtilTest.mdcNulo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="introducao-junit5" />
       <extension name="coverage">
         <pattern>
@@ -137,7 +137,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="tdd" />
       <option name="MAIN_CLASS_NAME" value="tdd.MathUtilTest" />
-      <option name="METHOD_NAME" value="mdcP6" />
+      <option name="METHOD_NAME" value="mdcNulo" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -146,10 +146,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.MathUtilTest" />
-        <item itemvalue="JUnit.MathUtilTest.mdcP6" />
-        <item itemvalue="JUnit.MathUtilTest.mdcP5Resultado1" />
-        <item itemvalue="JUnit.MathUtilTest.mdcP5" />
-        <item itemvalue="JUnit.MathUtilTest.mdcAParP1" />
+        <item itemvalue="JUnit.MathUtilTest.mdcNulo" />
+        <item itemvalue="JUnit.MathUtilTest.mdcNenhumParametro" />
+        <item itemvalue="JUnit.MathUtilTest.mdcMultiplosValores" />
+        <item itemvalue="JUnit.MathUtilTest.mdcGeralIndivisiveis" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +161,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622036906988</updated>
-      <workItem from="1622036924921" duration="10571000" />
+      <workItem from="1622036924921" duration="14088000" />
     </task>
     <servers />
   </component>
